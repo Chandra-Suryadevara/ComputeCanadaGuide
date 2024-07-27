@@ -1,4 +1,4 @@
-# Compute Cluster and SLURM Setup Tutorials
+# Compute Canada Cluster Setup Tutorials
 
 This repository contains tutorials and guides on:
 
